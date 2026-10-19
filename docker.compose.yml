@@ -1,0 +1,12 @@
+services:
+  app:
+    build: .
+    image: Blazhko-Igor-devops
+    container_name: Blazhko-Igor-container
+    ports:
+      - "8000:8000"
+    environment:
+      STUDENT_NAME: "Igor"
+      STUDENT_SURNAME: "Blazhko"
+      STUDENT_GROUP: "IT2-2313"
+      STUDENT_ID: "38325"
