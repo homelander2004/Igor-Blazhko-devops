@@ -1,0 +1,10 @@
+INFO Application started
+INFO Configuration loaded
+WARNING High memory usage
+INFO User logged in
+ERROR Database connection failed
+INFO Retrying database connection
+ERROR Request processing failed
+WARNING Response time is high
+INFO Database connection restored
+INFO Application completed
