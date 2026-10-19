@@ -1,0 +1,9 @@
+Name: Igor
+Surname: Blazhko
+Group: IT2-2313
+Student ID: 38325
+Project: DevOps
+6
+7
+8
+
